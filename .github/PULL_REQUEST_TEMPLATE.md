@@ -11,4 +11,5 @@
   ・ You should have your email presented.
      If you don't want to share your email, you can leave `email` as an empty string (`""`) and add any other social such as Discord, Twitter...
 
-**¹ ・ This requirement can be raised if the domain you're registering is for emails.**
+
+**¹ This requirement can be raised if the domain you're registering is for emails.**
