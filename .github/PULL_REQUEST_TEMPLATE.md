@@ -7,7 +7,7 @@
   
 - [ ] The website is reachable¹.
 - [ ] The `CNAME` record doesn't contain any slash.
-- [ ] There's enough information at the `owner` field (name and GitHub)
+- [ ] There's enough information at the `owner` field (username)
   ・ You should have your email presented.
      If you don't want to share your email, you can leave `email` as an empty string (`""`) and add any other social such as Discord, Twitter...
 
